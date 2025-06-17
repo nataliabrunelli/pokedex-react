@@ -3,7 +3,7 @@
 
 Bem-vindo à minha Pokédex! Este projeto foi desenvolvido como um desafio para aprofundar meus conhecimentos no ecossistema React moderno. É uma Single-Page Application (SPA) totalmente responsiva que consome a [PokeAPI](https://pokeapi.co/) para exibir informações detalhadas sobre os Pokémon.
 
-**[Acesse a demonstração ao vivo aqui!](https://SEU-USUARIO-GITHUB.github.io/NOME-DO-SEU-REPOSITORIO/)**
+**[Acesse a demonstração ao vivo aqui!](https://nataliabrunelli.github.io/pokedex-react/)**
 
 ---
 
