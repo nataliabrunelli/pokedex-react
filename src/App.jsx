@@ -13,7 +13,7 @@ function App() {
       <CustomThemeProvider>
         <QueryClientProvider client={queryClient}>
           <GlobalStyles />
-          <BrowserRouter>
+          <BrowserRouter basename="/pokedex-react">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/pokemon/:pokemonName" element={<PokemonDetails />} />
